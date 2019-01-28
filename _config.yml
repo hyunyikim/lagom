@@ -3,3 +3,4 @@ highlighter: rouge
 url: http://hyunyikim.github.io
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+baseurl: ""

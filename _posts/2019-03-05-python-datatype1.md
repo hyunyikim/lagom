@@ -1,9 +1,10 @@
 ---
 layout: post
-title: [Python] 숫자형, 문자열 자료형 정리
+title: Python 숫자형, 문자열 자료형 정리
 categories:
 - study
 ---
+
 ### 숫자형
 - 정수형
 - 실수형

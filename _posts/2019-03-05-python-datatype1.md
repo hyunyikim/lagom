@@ -21,6 +21,7 @@ categories:
 
 ### 문자열
 - 문자열 곱하기
+&nbsp;  
 ```Python
 >>> a = "python"
 >>> a * 2
@@ -29,6 +30,7 @@ categories:
 &nbsp;  
 - 문자열 인덱싱  
 0부터 숫자를 세고, 뒤에서부터는 -1부터 센다.
+&nbsp;  
 ```python
 >>> a = "Life is Short"
 >>> a[2]
@@ -40,6 +42,7 @@ t
 - 문자열 슬라이싱  
 시작번호부터 끝번호 전까지의 문자열을 가져온다.  
 시작번호, 끝번호의 생략도 가능하다.
+&nbsp;  
 ```python
 >>> a = "Life is Short"
 >>> a[0:4]
@@ -53,6 +56,7 @@ Life is Short
 ```
 &nbsp;  
 - 문자 개수 세기
+&nbsp;  
 ```python
 >>> a = "apple"
 >>> a.count('p')
@@ -60,6 +64,7 @@ Life is Short
 ```
 &nbsp;  
 - 문자 위치 알려주기
+&nbsp;  
 ```python
 >>> a = "apple"
 >>> a.find('p')
@@ -71,6 +76,7 @@ Life is Short
 ```
 &nbsp;  
 - 문자열 삽입
+&nbsp;  
 ```python
 >>> a = ","
 >>> a.join('abcd')
@@ -78,6 +84,7 @@ a,b,c,d
 ```
 &nbsp;  
 - 대,소문자 변환
+&nbsp;  
 ```python
 >>> a = "hi"
 >>> a.upper()
@@ -89,6 +96,7 @@ a,b,c,d
 &nbsp;  
 - 공백 지우기  
 lstrip은 왼쪽 공백을, rstrip은 오른쪽 공백을, strip은 문자열 양쪽에 있는 공백을 지운다.
+&nbsp;  
 ```python
 >>> a = " apple "
 >>> a.strip()
@@ -96,6 +104,7 @@ apple
 ```
 &nbsp;  
 - 문자열 바꾸기
+&nbsp;  
 ```python
 >>> a = "Apple is delicious"
 >>> a.replace('Apple', 'Banana')
@@ -104,6 +113,7 @@ apple
 ```
 &nbsp;  
 - 문자열 나누기
+&nbsp;  
 ```python
 >>> a = "Apple is delicious"
 >>> a.split()

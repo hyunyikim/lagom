@@ -103,5 +103,6 @@ C:\USERS\HYUNYI\DJANGOPROJECT\MYSITE
 - cmd에서 가상환경을 설치하고 그 위에 장고를 설치했는데 파이참에서는 그 가상환경을 찾지 못해서 그랬던 것
 - 파이참에서 가상환경 안에 있는 python.exe 파일을 인터프리터로 설정해주면 해결 
 &nbsp;  
+
 ---
 출처 - 책 [파이썬 웹프로그래밍](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)

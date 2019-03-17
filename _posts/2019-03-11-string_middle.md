@@ -32,7 +32,7 @@ def string_middle(str):
 #### 배운점
 - // 는 나머지 후 소수점 아랫자리를 버리는 연산자 
 - 문자열[시작번호:끝번호]라면 끝번호-1 까지 가져온다
+&nbsp;  
 
 ---
-출처  
-<https://programmers.co.kr/learn/courses/30/lessons/12903>  
+출처 - [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/12903)

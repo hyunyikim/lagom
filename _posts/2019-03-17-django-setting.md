@@ -94,5 +94,10 @@ C:\USERS\HYUNYI\DJANGOPROJECT\MYSITE
        └─__init__.py  
 ```
 
+&nbsp;  
+#### 가상환경 설치시 pycharm에서 경로 설정하기
+- cmd에서 장고 프로젝트를 만들고 파이참에서 열었는데 파이참이 장고 모듈을 찾지 못했다.
+- cmd에서 가상환경을 설치하고 그 위에 장고를 설치했는데 파이참에서는 그 가상환경을 찾지 못해서 그랬던 것
+- 파이참에서 가상환경 안에 있는 python.exe 파일을 인터프리터로 설정해주면 해결 
 ---
 출처 - 책 [파이썬 웹프로그래밍](http://www.hanbit.co.kr/store/books/look.php?p_code=B4329597070)
